@@ -5,14 +5,14 @@
 //  Created by Mac on 26/05/2021.
 //
 
+
 import Foundation
 import UIKit
 
 final class SeocndViewController: UIViewController {
-    
-    override func viewDidLoad() {
+   override func viewDidLoad() {
         super.viewDidLoad()
-        
+
         let subview = UIView()
         view.addSubview(subview)
     }
