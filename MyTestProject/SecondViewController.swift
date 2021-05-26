@@ -11,7 +11,7 @@ import UIKit
 final class SeocndViewController: UIViewController {
     
     override func viewDidLoad() {
-        super.viewDidLoad()
+   
         
         let subview = UIView()
         view.addSubview(subview)
